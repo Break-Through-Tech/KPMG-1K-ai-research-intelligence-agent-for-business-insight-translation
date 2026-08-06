@@ -35,6 +35,14 @@ The project presents a viable opportunity for students to engage with the comple
 
 ---
 
+# AI Research Intelligence Agent for Business Insight Translation
+
+**Company / Org:** KPMG  
+**Challenge Advisor:** Lauren Fang, [Email address]  
+**Program:** Break Through Tech AI Studio - Fall 2026
+
+---
+
 ## 🏢 About KPMG
 
 KPMG is a global leader in audit, tax, and advisory services, providing insights and expertise to a diverse clientele across various industries. Our commitment to innovation drives us to integrate technology into our solutions, enhancing business performance and fostering success.
