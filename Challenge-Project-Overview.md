@@ -39,6 +39,7 @@ The project presents a viable opportunity for students to engage with the comple
 
 **Company / Org:** KPMG  
 **Challenge Advisor:** Lauren Fang, [Email address]  
+**AI Studio Coach:** Julio Contreras, Julio.Contreras@breakthroughtech.org
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
