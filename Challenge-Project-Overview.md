@@ -38,8 +38,8 @@ The project presents a viable opportunity for students to engage with the comple
 # AI Research Intelligence Agent for Business Insight Translation
 
 **Company / Org:** KPMG  
-**Challenge Advisor:** Lauren Fang, [Email address]  
-**AI Studio Coach:** Julio Contreras, Julio.Contreras@breakthroughtech.org   
+**Challenge Advisor:** Lauren Fang, [lculbertson@kpmg.com](mailto:lculbertson@kpmg.com)  
+**AI Studio Coach:** Deanna DiMonte, [deanna.dimonte@breakthroughtech.org](mailto:deanna.dimonte@breakthroughtech.org)     
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
