@@ -87,11 +87,20 @@ Stretch goals to be maintained within prototype scope; exclude production deploy
 
 Use these milestones to guide your work. Your team will create a **GitHub Projects board** to track tasks within each milestone.
 
-| Month | Milestone | Key Activities |
+|| Month	| Week | Weekly Tasks |
 |---|---|---|
-| September | [Title] | • Data exploration and preprocessing<br>• Define evaluation framework and benchmark queries<br>• Develop baseline retrieval pipeline (RAG setup) |
-| October | [Title] | • Implement retrieval + summarization pipeline<br>• Develop prompt engineering approach for business translation<br>• Begin evaluation (relevance and accuracy testing) |
-| November | [Title] | • Refine model outputs and improve ranking/relevance<br>• Build lightweight user interface or interaction layer<br>• Document solution and prepare final presentation |
+| September	| Week 1	| Project kickoff, review challenge requirements, identify data sources, set up development environment and repository structure |
+| September	| Week 2	| Conduct exploratory data analysis (EDA), assess data quality, identify gaps and preprocessing needs |
+| September |	Week 3	| Clean and preprocess data, create data ingestion pipeline, document data preparation approach
+| September	| Week 4	| Define evaluation framework, establish benchmark questions/queries, build and test baseline RAG retrieval pipeline
+| October	| Week 5	| Implement retrieval pipeline improvements and integrate summarization capabilities
+| October	| Week 6	| Develop and test end-to-end retrieval + summarization workflow, evaluate initial outputs
+| October	| Week 7	| Design and implement prompt engineering strategy for translating technical outputs into business-friendly insights
+| October	| Week 8	| Conduct evaluation testing for relevance, accuracy, and completeness; document findings and improvement opportunities
+| November	| Week 9	| Refine prompts, retrieval ranking, and relevance mechanisms based on evaluation results
+| November	| Week 10	| Improve model outputs, optimize user experience, and begin development of lightweight user interface or interaction layer
+| November	| Week 11	| Finalize UI/interaction layer, perform user testing, complete technical and business documentation
+| November	| Week 12	| Prepare final presentation, create demo materials, conduct final testing, and package solution for submission
 
 > **Note for the team:** Please create a GitHub Projects board in this repository to break these milestones into weekly tasks. Go to the **Projects** tab → **New project** → Choose **Board** → Add columns for each month.
 
