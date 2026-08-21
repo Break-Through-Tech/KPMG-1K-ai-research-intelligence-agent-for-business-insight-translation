@@ -1,23 +1,5 @@
 
 > ❌ Remember that this is a public repo. Do NOT include: Proprietary data, PII, API keys, credentials, or anything confidential.
-
----
-
-## 📋 BTT Internal Evaluation Notes
-
-| Check | Status | Notes |
-|-------|--------|-------|
-| Python Compatibility | GREEN | The project's tech stack is centered on Python, particularly due to the use of RAG techniques and NLP tools which are available in Python libraries. |
-| Data Readiness | YELLOW | Data is publicly available and under 1GB, but will require cleaning and preprocessing for effective use. This introduces some risks in the initial phases of the project. |
-| Resource Check | GREEN | The project is designed to be feasible using the free tier of Google Colab, which is accessible and eliminates hardware constraints. |
-
-**Student Fit Score:** 7/10  
-**Technical Depth Score:** 8/10  
-**Overall Recommendation:** REVISE
-
-**Advisor Feedback Draft:**
-The project presents a viable opportunity for students to engage with the complexities of NLP and model evaluation. However, they must be prepared for potential delays in data processing and a need for rigorous evaluation against success metrics.
-
 ---
 
 # AI Research Intelligence Agent for Business Insight Translation
