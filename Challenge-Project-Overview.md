@@ -126,10 +126,14 @@ We propose the following approaches, but work with your AI coaches to determine 
 
 
 **Recommended Libraries:**
-- [e.g., pandas, scikit-learn, TensorFlow, Hugging Face]
+- pandas, scikit-learn, TensorFlow, Hugging Face
 
 **Evaluation Metrics:**
-- [e.g., Accuracy, Precision/Recall, RMSE, BLEU score]
+- **Precision@K & Recall@K**
+- **Q&A Accuracy:** how well did the solution answer questions? Typical RAG metrics (Context Relevance, Faithfulness, Answer Relevance)
+- **Citation Accuracy:** how well did the solution cite proper sources?
+- **Summarization Scoring/User Satisfaction Ratings:** how well did the solution summarize papers?
+- **Qualitative Product Design/Human Relevance scoring:** how well was the UI/UX designed? How fast did it feel?
 
 ---
 
@@ -138,19 +142,16 @@ We propose the following approaches, but work with your AI coaches to determine 
 The following resources will help your team understand the problem space and potential technical approaches for this project:
 
 **Background Reading:**
-- [e.g., Link to an article or blog post about the problem domain]
-- [e.g., Link to an industry report or case study]
+-Forthcoming
 
 **Technical Tutorials:**
-- [e.g., Link to a free tutorial on the ML technique(s) involved]
-- [e.g., Link to documentation for a key library or tool]
+- Forthcoming
 
 **Code Examples:**
-- [e.g., Link to a relevant GitHub repo]
-- [e.g., Link to a sample implementation or starter code]
+- Forthcoming
 
 **Other:**
-- [Links to any additional resources — e.g., papers, videos, podcasts, etc.]
+- Forthcoming
 
 *Feel free to explore beyond these, and share anything interesting you find with me!*
 
@@ -163,14 +164,10 @@ The following resources will help your team understand the problem space and pot
 
 **Other ways to reach out to me with questions:** 
 * **Preferred** KPMG Email; please copy your teammates and AI Studio Coach
-* I am on the team's channel within Break Through Tech’s Discord space, but email is better.
+* I am NOT on the team's channel within Break Through Tech’s Discord space, but email is better.
 * Note: Regardless of channel, I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.
 * Optional: Request a team check-in on Zoom if things go off the rails
 
-
-**Recommended free coding / collaboration tools**
-* […]
-* […]
 
 ---
 
