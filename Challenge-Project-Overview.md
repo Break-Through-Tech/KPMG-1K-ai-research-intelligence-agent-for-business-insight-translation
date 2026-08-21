@@ -87,8 +87,8 @@ Stretch goals to be maintained within prototype scope; exclude production deploy
 
 Use these milestones to guide your work. Your team will create a **GitHub Projects board** to track tasks within each milestone.
 
-|| Month	| Week | Weekly Tasks |
-|---|---|---|
+ | Month	| Week | Weekly Tasks |
+---|---|---|
 | September	| Week 1	| Project kickoff, review challenge requirements, identify data sources, set up development environment and repository structure |
 | September	| Week 2	| Conduct exploratory data analysis (EDA), assess data quality, identify gaps and preprocessing needs |
 | September |	Week 3	| Clean and preprocess data, create data ingestion pipeline, document data preparation approach
