@@ -117,26 +117,6 @@ We propose the following approaches, but work with your AI coaches to determine 
 
 ---
 
-## 📚 Resources to Get Started
-
-The following resources will help your team understand the problem space and potential technical approaches for this project:
-
-**Background Reading:**
--Forthcoming
-
-**Technical Tutorials:**
-- Forthcoming
-
-**Code Examples:**
-- Forthcoming
-
-**Other:**
-- Forthcoming
-
-*Feel free to explore beyond these, and share anything interesting you find with me!*
-
----
-
 ## 🤝 How We'll Work Together
 
 **Official check-ins:** During our biweekly 45-minute AI Studio Lab Section meeting block (2nd and 4th week of every month)
