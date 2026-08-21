@@ -143,8 +143,8 @@ The following resources will help your team understand the problem space and pot
 
 
 **Other ways to reach out to me with questions:** 
-* **Preferred** KPMG Email; please copy your teammates and AI Studio Coach
-* I am NOT on the team's channel within Break Through Tech’s Discord space, but email is better.
+* **Preferred** Email - lculbertson@kpmg.com
+* I am NOT on the team's channel within Break Through Tech’s Discord space.
 * Note: Regardless of channel, I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.
 * Optional: Request a team check-in on Zoom if things go off the rails
 
