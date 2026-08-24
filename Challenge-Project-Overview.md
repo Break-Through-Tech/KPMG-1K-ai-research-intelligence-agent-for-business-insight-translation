@@ -1,14 +1,8 @@
-
-> ❌ Remember that this is a public repo. Do NOT include: Proprietary data, PII, API keys, credentials, or anything confidential.
----
-
 # AI Research Intelligence Agent for Business Insight Translation
 
 **Company / Org:** KPMG  
-**Challenge Advisor:** Lauren Fang, lculbertson@kpmg.com
-
-**AI Coach:** Deanna DiMonte, deanna.dimonte@breakthroughtech.org
-
+**Challenge Advisor:** Lauren Fang, lculbertson@kpmg.com  
+**AI Coach:** Deanna DiMonte, deanna.dimonte@breakthroughtech.org  
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
