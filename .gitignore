@@ -1,2 +1,5 @@
 
 venv/
+.venv/
+.env
+data_processed/chroma_db/
