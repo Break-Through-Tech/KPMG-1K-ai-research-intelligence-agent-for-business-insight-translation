@@ -1,0 +1,9 @@
+id,question,expected_arxiv_id,retrieved_ids,hit_at_1,hit_at_3,hit_at_5
+Q1,What problem does Pandora's AI Model Routing Box aim to solve?,2608.20316v1,"['2608.20316v1', '2608.20316v1', '2608.20316v1', '2608.20316v1', '2608.20316v1']",True,True,True
+Q2,How does Pandora's AI Model Routing Box improve the efficiency of AI model selection?,2608.20316v1,"['2608.20316v1', '2608.20316v1', '2608.20316v1', '2608.20316v1', '2608.20316v1']",True,True,True
+Q3,What is AI4AI-Bench designed to evaluate?,2608.20318v1,"['2608.20318v1', '2608.20318v1', '2608.20318v1', '2608.20318v1', '2608.20318v1']",True,True,True
+Q4,How does AI4AI-Bench assess the performance of LLM agents in algorithmic design?,2608.20318v1,"['2608.20318v1', '2608.20318v1', '2608.20318v1', '2608.20318v1', '2608.20318v1']",True,True,True
+Q5,What information is used to induce task models from computer-use traces?,2608.20319v1,"['2608.20319v1', '2608.20319v1', '2608.20319v1', '2608.20319v1', '2608.20319v1']",True,True,True
+Q6,What is the purpose of the agentic approach for active data collection and travel behaviour modelling?,2608.20320v1,"['2608.20320v1', '2608.20320v1', '2608.20320v1', '2608.20320v1', '2608.20320v1']",True,True,True
+Q7,What problem does grounded checklist-aligned reward learning address in patient-oriented medical research?,2608.20331v1,"['2608.20331v1', '2608.20331v1', '2608.20331v1', '2608.20331v1', '2608.20331v1']",True,True,True
+Q8,How is reward learning used to improve patient-oriented medical outcomes?,2608.20331v1,"['2608.20331v1', '2608.20331v1', '2608.20331v1', '2608.20331v1', '2608.20331v1']",True,True,True
