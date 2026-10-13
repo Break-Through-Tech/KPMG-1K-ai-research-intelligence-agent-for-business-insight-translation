@@ -1,0 +1,44 @@
+id,question,answer,expected_arxiv_id,answer_relevance,faithfulness,citation_accuracy
+Q1,What problem does Pandora's AI Model Routing Box aim to solve?,"Pandora’s AI Model Routing Box tackles the challenge of **efficiently allocating tasks to AI models when estimating each model’s value is expensive**—i.e., it seeks to optimize routing decisions while accounting for the cost of value estimation.  
+
+Source: arXiv 2608.20316v1",2608.20316v1,2,2,2
+Q2,How does Pandora's AI Model Routing Box improve the efficiency of AI model selection?,"Pandora’s AI Model Routing Box improves efficiency by routing queries to the most valuable models using a cost‑aware value‑estimation framework.  The system employs value estimators (Section C.1) and carefully designed prompts (Section C.2) to predict each model’s expected benefit, allowing it to limit the number of inspections (see Supplemental Results D.1) and the monetary cost of value‑function evaluations (Supplemental Results D.3).  This targeted allocation reduces overall regret plus inspection cost, as shown in Table 4 on RAG routing, where the Box achieves the lowest combined metric among compared methods.  
+
+Source: arXiv 2608.20316v1.",2608.20316v1,2,2,2
+Q3,What is AI4AI-Bench designed to evaluate?,"AI4AI‑Bench is a benchmark that tests whether a large‑language‑model agent can write code that improves the training algorithm of a repository’s own model.  The agent’s submission is evaluated by running the modified code under the same conditions as the original, and a fixed evaluator computes a metric (e.g., accuracy, solve‑rate, loss).  The benchmark measures whether the agent’s code yields a better metric than the baseline, thus assessing the agent’s ability to perform recursive self‑improvement in algorithm design.  
+
+Source: arXiv 2608.20318v1",2608.20318v1,2,2,2
+Q4,How does AI4AI-Bench assess the performance of LLM agents in algorithmic design?,"AI4AI‑Bench evaluates an LLM agent by letting it modify the training algorithm of a frozen research repository and then measuring the quality of the resulting model with a **fixed, pre‑defined evaluator**.  
+
+1. **Baseline** – The original repository’s code is run once to produce a baseline model \(C\).  
+2. **Agent submission** – The agent’s code produces a modified training algorithm \(C'\).  
+3. **Evaluation** – Both \(C\) and \(C'\) are trained under identical conditions (same hardware, budget, and evaluator).  
+4. **Metric** – A fixed evaluator \(m\) computes a scalar score \(s(C)=m(a(C))\) and \(s(C')=m(a(C'))\).  
+5. **Improvement test** – The submission is considered better if  
+   \[
+   s(C') > s(C) \quad \text{for upward‑directed metrics (↑)} \quad\text{or}\quad
+   s(C') < s(C) \quad \text{for downward‑directed metrics (↓)} .
+   \]
+6. **Dense scoring** – Rather than a binary win/lose, the benchmark reports the actual metric value, providing a dense score that reflects the magnitude of improvement.
+
+Thus, AI4AI‑Bench assesses performance by comparing the evaluator‑derived metric of the agent‑generated model to that of the baseline, using a dense, direction‑aware score.  
+
+**Source:** arXiv:2608.20318v1.",2608.20318v1,2,2,2
+Q5,What information is used to induce task models from computer-use traces?,"Task models are induced from the low‑level events that are passively recorded during computer use: screenshots of the screen and the corresponding mouse or keyboard actions.  
+
+Source: arXiv 2608.20319v1",2608.20319v1,2,2,2
+Q6,What is the purpose of the agentic approach for active data collection and travel behaviour modelling?,"The agentic approach is designed to unify the traditionally separate stages of travel‑behavior research into a single, transparent, and modular workflow. By linking a conversational data‑collection agent, a structured data‑processing agent, and a behavioral‑prediction agent, it enables an AI‑assisted survey to capture context‑dependent travel behavior and to feed that data directly into predictive models (e.g., LLMs, DCMs, ML benchmarks). The goal is to streamline the process from survey administration to behavioral prediction while allowing systematic evaluation of how different information types and AI configurations affect mode‑choice accuracy.  
+
+Source: arXiv 2608.20320v1",2608.20320v1,2,2,2
+Q7,What problem does grounded checklist-aligned reward learning address in patient-oriented medical research?,"Grounded checklist‑aligned reward learning (G‑CARL) tackles the problem of producing **clinically accurate, evidence‑grounded interpretations of medical reports that also respect patient‑specific context and clinical checklists**. In patient‑oriented medical research, existing methods (e.g., simple fine‑tuning or “LLM‑as‑a‑Judge”) often misdiagnose abnormalities, ignore relevant patient history, or fail to answer the user’s primary question. G‑CARL aligns the model’s outputs with a checklist of clinical criteria and evidence‑based rewards, thereby improving diagnostic accuracy, contextual integration, and recommendation quality.  
+
+**Source:** arXiv:2608.20331v1",2608.20331v1,2,2,2
+Q8,How is reward learning used to improve patient-oriented medical outcomes?,"Reward learning in G‑CARL improves patient‑oriented medical outcomes by providing fine‑grained, evidence‑grounded supervision for language models that interpret medical reports. The framework decomposes rewards into two types:
+
+1. **Retrieval‑grounded claim reward** – each atomic medical claim in a generated response is verified against the uploaded report and a multi‑source medical datastore. This gives localized feedback on factual accuracy and discourages unsupported elaboration, ensuring that the information patients receive is verifiable and clinically reliable.
+
+2. **Checklist‑guided reward** – for context‑dependent goals such as demand satisfaction and expression quality, G‑CARL generates instance‑specific weighted checklists (refined by clinicians). The reward emphasizes the checklist items most relevant to the current report and user question, providing transparent supervision that the response addresses the patient’s concerns appropriately.
+
+By aligning rewards with verifiability and patient‑specific needs, G‑CARL consistently outperforms supervised and other reinforcement‑learning baselines, with gains confirmed by clinician preference and user comprehension studies. This leads to more accurate, relevant, and patient‑friendly medical interpretations, thereby improving patient‑oriented outcomes.
+
+**Source:** arXiv ID 2608.20331v1.",2608.20331v1,2,2,2
