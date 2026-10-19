@@ -4,3 +4,5 @@ venv/
 .env
 data_processed/chroma_db/
 .DS_Store
+data_processed/chunks.jsonl
+data_processed/chunks.parquet
