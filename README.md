@@ -10,7 +10,7 @@
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Anya Vasetskaya  | @AnyaVasetskaya | Retrieval-Augmented Generation (RAG) architecture, baseline prototyping, research retrieval and summarisation integration                   |
+| Anya Vasetskaya  | @AnyaVasetskaya | Retrieval-Augmented Generation (RAG) architecture, baseline prototyping, research retrieval through arXiv API, chunk retrieval pipeline improvements, and summarization integration                   |
 | Eiman Sherzada   | @chimaevv       | Research data assessment and preparation; end-to-end retrieval and summarisation workflow development and testing                           |
 | Fidel Torres     | @Ochoa667       | Research text extraction and preprocessing; prompt engineering for accessible, business-oriented insights                                   |
 | Janhavi Beley    | @JanhaviBeley   | Retrieval evaluation, benchmark design, assessment of relevance, accuracy and completeness, and documentation of improvement opportunities. |
