@@ -1,0 +1,7 @@
+id,type,retrieval_relevance,correctness,completeness,source_support,correct_abstention,notes
+Q1,answerable,,,,,,
+Q2,answerable,,,,,,
+Q3,answerable,,,,,,
+Q4,answerable,,,,,,
+Q5,answerable,,,,,,
+Q6,missing_evidence,,,,,,

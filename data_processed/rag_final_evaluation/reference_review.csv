@@ -1,0 +1,7 @@
+id,question,type,verified,relevant_paper_ids,expected_facts
+Q1,What methods can reduce hallucinations in retrieval-augmented generation?,answerable,,,
+Q2,How do dense and sparse retrieval approaches differ in strengths and limitations?,answerable,,,
+Q3,How can the factual support of RAG answers be evaluated?,answerable,,,
+Q4,What risks should businesses consider when deploying RAG assistants?,answerable,,,
+Q5,What are the main failure modes of retrieval-augmented generation?,answerable,,,
+Q6,What exact financial savings has KPMG achieved from this student prototype?,missing_evidence,,,
