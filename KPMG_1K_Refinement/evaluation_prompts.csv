@@ -1,0 +1,10 @@
+prompt_id,question,primary_test,reason_selected,question_type
+P01,What are the most relevant recent research papers on reducing hallucinations in retrieval-augmented generation? Summarize the main approaches and identify where the evidence is strongest.,Retrieval + synthesis,Hallucination mitigation: baseline weakness,answerable
+P07,I am preparing for a client conversation about adopting generative AI. What research should I read to understand the major reliability and governance risks?,Client preparation,Client advisory risk: business relevance,answerable
+P13,What does the research say about effective methods for evaluating hallucinations in RAG systems? Compare the metrics and their limitations.,Evaluation rigor,Hallucination evaluation: factual support,answerable
+P22,"What research compares dense, sparse, and hybrid retrieval? Recommend evaluation questions for choosing among them.",Architecture choice,Dense/sparse/hybrid: ranking trade-offs,answerable
+P23,Summarize evidence on reranking methods in RAG pipelines. When does a reranker materially improve results?,Component value,Reranking methods: component relevance,answerable
+P25,Find studies on evaluating whether retrieved context actually supports a model’s answer. Summarize useful groundedness or faithfulness methods.,Groundedness,Groundedness: source support,answerable
+P38,Identify the most important limitations across the papers you retrieved. Do not treat repeated claims as independent evidence if they rely on the same benchmark or dataset.,Source scrutiny,Source scrutiny: repeated evidence,answerable
+P40,"Show me the evidence trail behind your answer: the papers used, the specific finding drawn from each, and any conflicting or missing evidence.",Traceability,Evidence trail: citation traceability,answerable
+N01,What exact financial savings has KPMG achieved from this student prototype?,Missing-evidence/abstention,October Q6: prevent unsupported claims,missing_evidence
